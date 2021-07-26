@@ -1,2 +1,2 @@
 # RecolhaWeb
-Sistema de controle de recolhimento e guarda de itens
+API REST de controle de recolhimento e guarda de itens
